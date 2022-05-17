@@ -1,4 +1,4 @@
-package goNest
+package response
 
 import "fmt"
 
